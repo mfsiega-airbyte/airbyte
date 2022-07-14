@@ -3070,7 +3070,6 @@
       - "port"
       - "username"
       - "sid"
-      additionalProperties: true
       properties:
         host:
           title: "Host"
